@@ -1,4 +1,4 @@
-![H1K7_ThQC](https://github.com/AhJayzZ/PostureCorrector/assets/61458156/f0c11f0e-fb62-43f0-be46-0578af54eba5)# 坐姿矯正辨識系統 (PostureCorrector)
+# 坐姿矯正辨識系統 (PostureCorrector)
 
 ## 介紹 Introduction
 日常生活中，因需要長時間久坐於電腦前，而又沒有注意到坐姿不正的問題，時間久了會導致肌肉神經壓迫，引發如脊椎側彎與骨盆前傾等問題。於是希望透過本專題可以幫助辨識使用者目前的坐姿，並即時提出矯正建議。
