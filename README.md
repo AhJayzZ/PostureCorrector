@@ -19,7 +19,7 @@
 
 ---
 ## 展示影片 Demo
-{%youtube SY_DC_0MAfc%}
+https://github.com/AhJayzZ/PostureCorrector/assets/61458156/178440bc-e4c6-4d47-99b8-6b7ddda5e235
 
 ---
 ## 實現 Implement
